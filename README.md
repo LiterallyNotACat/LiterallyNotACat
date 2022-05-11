@@ -1,4 +1,5 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=LiterallyNotACat&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=html,css)](https://github.com/Jurredr/github-widgetbox)
 - 👋 Hi, I’m @LiterallyNotACat
 - 👀 I’m interested in children
 - 🌱 I’m currently learning HTML and CSS
