@@ -1,3 +1,4 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 - 👋 Hi, I’m @LiterallyNotACat
 - 👀 I’m interested in children
 - 🌱 I’m currently learning HTML and CSS
