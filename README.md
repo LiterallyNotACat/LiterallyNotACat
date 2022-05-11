@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LiterallyNotACat
-- 👀 I’m interested in children (jk)
+- 👀 I’m interested in children
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach her: dye
+- 📫 UwU
 
 <!---
 LiterallyNotACat/LiterallyNotACat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
